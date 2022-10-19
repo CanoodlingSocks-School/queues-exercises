@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "queues-exercises", "queues-exercises\queues-exercises.csproj", "{A5614359-4229-4A28-A4DD-E91CDCD3BF0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5614359-4229-4A28-A4DD-E91CDCD3BF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5614359-4229-4A28-A4DD-E91CDCD3BF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5614359-4229-4A28-A4DD-E91CDCD3BF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5614359-4229-4A28-A4DD-E91CDCD3BF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D65E80BD-525B-4FA2-9022-4D157188E38F}
+	EndGlobalSection
+EndGlobal
